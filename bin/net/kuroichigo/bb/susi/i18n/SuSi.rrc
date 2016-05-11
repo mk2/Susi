@@ -1,0 +1,10 @@
+APPLICATION_DESCRIPTION#0="a software for browsing 2ch (most biggest online bulletin board system in Japan)";
+APPLICATION_TITLE#0="SuSi for 2ch browsing";
+BOARD_CATEGORY_SCREEN_MENUITEM_UPDATE#0="update";
+BOARD_CATEGORY_SCREEN_TITLE#0="Board list";
+BOARD_SCREEN_MENUITEM_UPDATE#0="update";
+BOARD_SCREEN_TITLE#0="Topic list";
+DEFAULT_BBSMENU_URL#0="http://menu.2ch.net/bbsmenu.html";
+DEFAULT_JA_ENCODING#0="Shift_JIS";
+DEFAULT_SUBJECT_TXT#0="subject.txt";
+TOPIC_SCREEN_TITLE#0="Replies";

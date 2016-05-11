@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+MIDlet-Jar-Size: 44036
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: SuSi.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_networkapi
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Module-Name: SuSi
+MIDlet-Name: SuSi
+RIM-COD-Size: 16308
+RIM-COD-Creation-Time: 1301770021
+MIDlet-1: ,img/maguro_icon.png,
+RIM-COD-URL: SuSi.cod
+RIM-MIDlet-NameResourceId-1: 0
+RIM-COD-SHA1: f6 40 85 41 7d 10 ed 46 b6 f5 cc a8 c0 af be 7a 6a cf cb e9
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: BlackBerry Developer
+RIM-MIDlet-NameResourceBundle-1: net.kuroichigo.bb.susi.i18n.SuSi
